@@ -18,7 +18,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1685501246,,"wq"
+|2,0,1713467578,,"wq"
 :q!
 |2,0,1685499647,,"q!"
 :q
@@ -241,32 +241,90 @@ $
 |3,0,36,0,1,0,1683689629,"["
 
 # File marks:
-'0  8  0  ~/jupyter/[Command Line]
-|4,48,8,0,1685503798,"~/jupyter/[Command Line]"
-'1  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,49,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
-'2  5  0  ~/jupyter/jupyter_notebook_config.py
-|4,50,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
-'3  5  0  ~/jupyter/jupyter_notebook_config.py
-|4,51,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
-'4  5  0  ~/jupyter/jupyter_notebook_config.py
-|4,52,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
-'5  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,53,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
-'6  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,54,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+'0  2  15  ~/eve.txt
+|4,48,2,15,1713467578,"~/eve.txt"
+'1  1  0  ~/id_rsa.pub
+|4,49,1,0,1713467330,"~/id_rsa.pub"
+'2  2  0  ~/eve.txt
+|4,50,2,0,1713467330,"~/eve.txt"
+'3  1  0  ~/id_rsa.pub
+|4,51,1,0,1713467330,"~/id_rsa.pub"
+'4  2  15  ~/eve.txt
+|4,52,2,15,1713466800,"~/eve.txt"
+'5  2  15  ~/eve.txt
+|4,53,2,15,1713466800,"~/eve.txt"
+'6  8  0  ~/jupyter/[Command Line]
+|4,54,8,0,1685503798,"~/jupyter/[Command Line]"
 '7  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,55,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
-'8  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,56,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
-'9  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,57,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+|4,55,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+'8  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,56,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+'9  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,57,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
 
 # Jumplist (newest first):
+-'  2  15  ~/eve.txt
+|4,39,2,15,1713467578,"~/eve.txt"
+-'  1  0  ~/eve.txt
+|4,39,1,0,1713467569,"~/eve.txt"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1713467330,"~/id_rsa.pub"
+-'  2  0  ~/eve.txt
+|4,39,2,0,1713467330,"~/eve.txt"
+-'  1  0  ~/id_rsa.pub
+|4,39,1,0,1713467330,"~/id_rsa.pub"
+-'  2  15  ~/eve.txt
+|4,39,2,15,1713466800,"~/eve.txt"
+-'  1  0  ~/eve.txt
+|4,39,1,0,1713466774,"~/eve.txt"
+-'  1  0  ~/eve.txt
+|4,39,1,0,1713466727,"~/eve.txt"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
+-'  8  0  ~/jupyter/[Command Line]
+|4,39,8,0,1685503798,"~/jupyter/[Command Line]"
 -'  8  0  ~/jupyter/[Command Line]
 |4,39,8,0,1685503798,"~/jupyter/[Command Line]"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685501246,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
+-'  1  0  ~/jupyter/vi
+|4,39,1,0,1685499682,"~/jupyter/vi"
 -'  1  0  ~/jupyter/vi
 |4,39,1,0,1685499682,"~/jupyter/vi"
 -'  5  0  ~/jupyter/jupyter_notebook_config.py
@@ -275,6 +333,76 @@ $
 |4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
 -'  5  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  5  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,5,0,1685499647,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685499539,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
@@ -282,189 +410,72 @@ $
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499428,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499411,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685499343,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
 |4,39,1,0,1685499249,"~/jupyter/jupyter_notebook_config.py"
 -'  1  0  ~/jupyter/jupyter_notebook_config.py
-|4,39,1,0,1685499208,"~/jupyter/jupyter_notebook_config.py"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
--'  22  75  ~/jupyter/Untitled.ipynb
-|4,39,22,75,1685499184,"~/jupyter/Untitled.ipynb"
+|4,39,1,0,1685499249,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499249,"~/jupyter/jupyter_notebook_config.py"
+-'  1  0  ~/jupyter/jupyter_notebook_config.py
+|4,39,1,0,1685499249,"~/jupyter/jupyter_notebook_config.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/eve.txt
+	*	1713467578	0
+	"	2	15
+	^	2	0
+	.	1	17
+	+	1	17
+
+> ~/id_rsa.pub
+	*	1713467330	0
+	"	1	0
 
 > ~/jupyter/jupyter_notebook_config.py
 	*	1685501245	0

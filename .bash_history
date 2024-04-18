@@ -1201,3 +1201,61 @@ cd .jupyter
 jupyter notebook --generate-confing
 pip install jupyterthemes
 jupyter nbextension enable <Word>
+~$ cd .ssh
+~$ ssh -keygen -t rsa -b 4096 -C "ts"
+ssh-keygen -t rsa -b 4096 -C "taesu9744@gmail.com"
+/.ssh$ ls
+~/.ssh$ ls
+~/.ssh$ ls id_rsa id_rsa.pub known hosts
+vim id_rsa.pub
+ssh-keygen -t rsa -b 4096 -C "taesu9744@gmail.com"
+ssh-rsa cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/id_rsa.pub
+cd ~/.ssh
+ls
+cat ~/.ssh/id_rsa.pub
+git clone git@github.com:Oceankok/21S.git
+exit
+cd ~
+git clone git@github.com:Oceankok/21S.git
+git status
+/.ssh$
+ssh taesu9744@gmail.com
+git status
+git init
+git status
+git add .
+git rm --cached ssh/OpenSourch_Practice
+git rm --cached 21S
+ls
+ls /.sshexit
+ls -a
+git status
+cat > 21S.txt
+git status
+git add 21S
+git add 21S.txt
+git add .cache/tracker/meta.db .cache/tracker/meta.db-shm .cache/tracker/meta.db-wal .local/share/tracker/data/tracker-store.journal 21S.txt
+git commit -m "Committing changes"
+cat > 21S.txt
+cat > adam.txt
+cat adam.txt
+git status
+vi eve.txt
+cat eve.txt
+vi eve.txt
+cat eve.txt
+git status
+git add adam.txt
+git add eve.txt
+git status
+git config --global user.email"taesu9744@gmail.com"
+git commit -m "adam & eve"
+git status
+git push origin main
+git push origin master
+git add adam.txt
+git add eve.txt
+git status
+git log origin master
+git push origin master
