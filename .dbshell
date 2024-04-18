@@ -1,0 +1,51 @@
+show dbs
+help
+use da_design_2020038027
+db
+db.createCollection
+db.createCollection("person")
+show collections
+db.person.insert({"name":"Kim", "age":23})
+db.person.insert({"name":"Kim", "age":23, "a":[1,2,3,4,5]})
+db.person.find()
+db.person.remove({"name" : "Kim"})
+db.person.find()
+db.person.drop)_
+db.person.drop()
+show collections
+use da_design 2020038027;
+use da_desing_2020038027;
+db;
+db.createCollection( 'Company', {validator: {$jsonSchema: {bsonType: 'object',title:'Company',required: [         'name'],properties: {name: {bsonType: 'string'},company_stock: {bsonType: 'array',items: {title:'object',required: [         'date',          'value'],properties: {date: {bsonType: 'date'},value: {bsonType: 'double'}}}},recent_stock_value: {bsonType: 'double'}}         }      }});  db.createCollection( 'PredictedCompanyStock', {validator: {$jsonSchema: {bsonType: 'object',title:'PredictedCompanyStock',required: [         'Company',          'company_stock'],properties: {Company: {bsonType: 'objectId'},company_stock: {bsonType: 'array',items: {title:'object',required: [         'date',          'value'],properties: {date: {bsonType: 'date'},value: {bsonType: 'double'}}}}}         }      }});
+show collections;
+show db
+show
+show dbs
+use db_test
+show collections
+db.stats()
+db.createcollection
+db.createCollection("family")
+show collections
+db.family.renameCollection("tester")
+show collections
+db.tester.drop()
+show collections
+db.collection1.insert({"name":"","age":"23"})
+db.company.insert({"name":"","age":23})
+db.company.find()
+db.person.find("age":{$lte:22})
+db.person.find("age":{$lte:20})
+db.person.find({"age":{$lte:20}})
+show dbs
+use da_design_2020038027
+show collections
+show Collections
+show collections
+show dbs
+use da_design_2020038027
+show collections
+use da_design_2020038027
+show collections
+db.Company.find({});
+vi data_collect2.py
